@@ -10,3 +10,15 @@
 /home/mohammad/Projects/First-SourceGenerator/Project.Generators/obj/Debug/net7.0/refint/Project.Generators.dll
 /home/mohammad/Projects/First-SourceGenerator/Project.Generators/obj/Debug/net7.0/Project.Generators.pdb
 /home/mohammad/Projects/First-SourceGenerator/Project.Generators/obj/Debug/net7.0/ref/Project.Generators.dll
+F:\Generator\Project.Generators\bin\Debug\net7.0\Project.Generators.deps.json
+F:\Generator\Project.Generators\bin\Debug\net7.0\Project.Generators.dll
+F:\Generator\Project.Generators\bin\Debug\net7.0\Project.Generators.pdb
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.csproj.AssemblyReference.cache
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.GeneratedMSBuildEditorConfig.editorconfig
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.AssemblyInfoInputs.cache
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.AssemblyInfo.cs
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.csproj.CoreCompileInputs.cache
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.dll
+F:\Generator\Project.Generators\obj\Debug\net7.0\refint\Project.Generators.dll
+F:\Generator\Project.Generators\obj\Debug\net7.0\Project.Generators.pdb
+F:\Generator\Project.Generators\obj\Debug\net7.0\ref\Project.Generators.dll

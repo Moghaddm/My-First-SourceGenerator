@@ -1615,24 +1615,26 @@
     ]
   },
   "packageFolders": {
-    "/home/mohammad/.nuget/packages/": {}
+    "C:\\Users\\mahdi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohammad/Projects/First-SourceGenerator/Project.Generators/Project.Generators.csproj",
+      "projectUniqueName": "F:\\Generator\\Project.Generators\\Project.Generators.csproj",
       "projectName": "Project.Generators",
-      "projectPath": "/home/mohammad/Projects/First-SourceGenerator/Project.Generators/Project.Generators.csproj",
-      "packagesPath": "/home/mohammad/.nuget/packages/",
-      "outputPath": "/home/mohammad/Projects/First-SourceGenerator/Project.Generators/obj/",
+      "projectPath": "F:\\Generator\\Project.Generators\\Project.Generators.csproj",
+      "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
+      "outputPath": "F:\\Generator\\Project.Generators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mohammad/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1678,7 +1680,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

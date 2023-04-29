@@ -1473,32 +1473,34 @@
     ]
   },
   "packageFolders": {
-    "/home/mohammad/.nuget/packages/": {}
+    "C:\\Users\\mahdi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mohammad/Projects/First-SourceGenerator/Project.Api/Project.Api.csproj",
+      "projectUniqueName": "F:\\Generator\\Project.Api\\Project.Api.csproj",
       "projectName": "Project.Api",
-      "projectPath": "/home/mohammad/Projects/First-SourceGenerator/Project.Api/Project.Api.csproj",
-      "packagesPath": "/home/mohammad/.nuget/packages/",
-      "outputPath": "/home/mohammad/Projects/First-SourceGenerator/Project.Api/obj/",
+      "projectPath": "F:\\Generator\\Project.Api\\Project.Api.csproj",
+      "packagesPath": "C:\\Users\\mahdi\\.nuget\\packages\\",
+      "outputPath": "F:\\Generator\\Project.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mohammad/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/mohammad/Projects/First-SourceGenerator/Project.Generators/Project.Generators.csproj": {
-              "projectPath": "/home/mohammad/Projects/First-SourceGenerator/Project.Generators/Project.Generators.csproj"
+            "F:\\Generator\\Project.Generators\\Project.Generators.csproj": {
+              "projectPath": "F:\\Generator\\Project.Generators\\Project.Generators.csproj"
             }
           }
         }
@@ -1541,7 +1543,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
